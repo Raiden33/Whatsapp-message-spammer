@@ -1,3 +1,4 @@
 python 3.x
 selenium 3.14
 requests
+bs4
